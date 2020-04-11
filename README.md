@@ -1,9 +1,14 @@
 # ECE Early Childhood Education Network
-## flattenthecurve_mcc
-## ACS Hackathon - Melbourne Coding Club - Flatten The Curve 
+
+##ACS Hackathon - Melbourne Coding Club - Flatten The Curve 
+
+Melbourne Coding Club is a meetup group of coders, hobbyists, and hackers. In the past 3 years we meet regularly in Carnegie to discuss and demonstrate the next cool thing in software.
+
+The Melbourne Coding Club ACS Hackathon Team presents to you ECE; An online platform that helps parents to find the most suitable education sessions and providers for their children. The platform can also facilitate online social meetup amongst like-minded parents and children, and allow education providers to offer their course content online. It's currently the best alternative to Childcare service in time of crisis like today, whereby children are no longer even allowed to play in their neigbourhood playground.
+
+Feel free to browse through and collaborate with us to make this dream come to live sooner than later.
 
 ## Video link
-
 ## Presentation link
 [ECE Pitch Deck](https://docs.google.com/presentation/d/1Weq8A6Q_VTPR7yUeJA9ShHOKMmdwxdDD56PkeQR6KuI)
 
