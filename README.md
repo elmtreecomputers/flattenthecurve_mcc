@@ -13,7 +13,10 @@
 ### Register as educator
 ![very good|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/registration.jpg)
 
-## Database Design
+## System's Overview
+### Software as Service on Cloud Architecture 
+![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/system%20architecture.png)
+### Database Design
 ![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Database_Design_Relations.png "ECE DB")
 
 
