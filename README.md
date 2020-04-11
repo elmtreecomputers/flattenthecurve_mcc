@@ -10,7 +10,7 @@
 ## MockUp screenshots
 
 ## Database Design
-
+![alt text](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Database_Design_Relations.png "ECE DB")
 
 ## Trello Project Management snapshot
 
