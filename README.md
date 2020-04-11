@@ -8,8 +8,12 @@ The Melbourne Coding Club ACS Hackathon Team presents to you ECE; An online plat
 
 Feel free to browse through our ideas and collaborate with us to make this dream come to live sooner than later. Together we create the future of childcare.
 
-## Video link
-## Presentation link
+## ECE Pitch Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0syXHKO5Kv0
+" target="_blank"><img src="http://img.youtube.com/vi/0syXHKO5Kv0/0.jpg" 
+alt="ECE Pitch Video" width="240" height="180" border="10" /></a>
+
+## Pitch Slide Deck
 [ECE Pitch Deck](https://docs.google.com/presentation/d/1Weq8A6Q_VTPR7yUeJA9ShHOKMmdwxdDD56PkeQR6KuI)
 
 ## MockUp screenshots
