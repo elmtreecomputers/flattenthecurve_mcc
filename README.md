@@ -6,7 +6,7 @@ Melbourne Coding Club is a meetup group of coders, hobbyists, and hackers. In th
 
 The Melbourne Coding Club ACS Hackathon Team presents to you ECE; An online platform that helps parents to find the most suitable education sessions and providers for their children. The platform can also facilitate online social meetup amongst like-minded parents and children, and allow education providers to offer their course content online. It's currently the best alternative to Childcare service in time of crisis like today, whereby children are no longer even allowed to play in their neigbourhood playground.
 
-Feel free to browse through and collaborate with us to make this dream come to live sooner than later.
+Feel free to browse through our ideas and collaborate with us to make this dream come to live sooner than later. Together we create the future of childcare.
 
 ## Video link
 ## Presentation link
