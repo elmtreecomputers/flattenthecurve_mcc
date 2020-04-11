@@ -17,7 +17,8 @@
 ![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Database_Design_Relations.png "ECE DB")
 
 
-
+## Product Development Milestone
+![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Transition%20sequence.png)
 ## Trello Project Management snapshot
 Work in progress as of Day 3 morning
 ![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/ECE%20-%20ACS%20-%20Trello.png "Work in progress")
