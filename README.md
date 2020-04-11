@@ -9,13 +9,18 @@
 
 ## MockUp screenshots
 ### Book a session
-![very good|397x512x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/session_booking.jpg)
+![very good|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/session_booking.jpg)
+### Register as educator
+![very good|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/registration.jpg)
+
 ## Database Design
-![alt text](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Database_Design_Relations.png "ECE DB")
+![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/Database_Design_Relations.png "ECE DB")
+
+
 
 ## Trello Project Management snapshot
 Work in progress as of Day 3 morning
-![alt text](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/ECE%20-%20ACS%20-%20Trello.png "Work in progress")
+![alt text|800x800x](https://raw.githubusercontent.com/elmtreecomputers/flattenthecurve_mcc/master/ECE%20-%20ACS%20-%20Trello.png "Work in progress")
 
 
 
